@@ -12,6 +12,10 @@
   <a href="docs/superman/SUPERMAN_PRD_V3.md">🔴 Read Superman v3</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/SpencerBrown1717/RSI_research/raw/refs/heads/main/downloads/RSI_Research_V3_PRDs.zip"><strong>⬇️ Download all three PRDs (.zip)</strong></a>
+</p>
+
 # RSI Research
 
 **Can AI get better at getting better—and remain under human control?**
@@ -21,6 +25,18 @@ Research by **Spencer Brown · LVL3.AI**. This repository publishes the matched 
 The proposed feedback loop connects **what to improve**, **how to improve it**, and **which changes may be adopted**.
 
 > **Research status:** These are architecture and build specifications. Their performance figures are proposed targets, conditional bounds, or described reference-model results. This repository publishes the PRDs; it does not supply a runnable integrated system or demonstrate its real-world performance.
+
+## ⬇️ Download the PRDs
+
+**[Download all three v3 PRDs in one ZIP](https://github.com/SpencerBrown1717/RSI_research/raw/refs/heads/main/downloads/RSI_Research_V3_PRDs.zip)**
+
+| Individual downloads | Format |
+| :--- | :--- |
+| [🔵 RSI v3](https://github.com/SpencerBrown1717/RSI_research/raw/refs/heads/main/downloads/RSI_PRD_V3.zip) | ZIP containing the original Markdown document |
+| [🟣 Athena v3](https://github.com/SpencerBrown1717/RSI_research/raw/refs/heads/main/downloads/ATHENA_PRD_V3.zip) | ZIP containing the original Markdown document |
+| [🔴 Superman v3](https://github.com/SpencerBrown1717/RSI_research/raw/refs/heads/main/downloads/SUPERMAN_PRD_V3.zip) | ZIP containing the original Markdown document |
+
+Unzip the download, then open the `.md` files in any text or Markdown editor. All archives preserve the published v3 documents exactly; the combined ZIP also preserves their `docs/` directory paths.
 
 ## 📚 The three blueprints
 
