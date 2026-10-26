@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">RSI Research</title>
+  <desc id="desc">Three research blueprints by Spencer Brown: RSI for improvement, Athena for strategy, and Superman for control.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0C1428"/>
+      <stop offset="1" stop-color="#171029"/>
+    </linearGradient>
+    <linearGradient id="spectrum" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#FB7185"/>
+    </linearGradient>
+    <radialGradient id="glowBlue">
+      <stop stop-color="#2563EB" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPink">
+      <stop stop-color="#A855F7" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.065"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="520" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="520" fill="url(#background)"/>
+    <ellipse cx="140" cy="100" rx="420" ry="340" fill="url(#glowBlue)"/>
+    <ellipse cx="1090" cy="160" rx="430" ry="380" fill="url(#glowPink)"/>
+    <rect width="1200" height="520" fill="url(#grid)"/>
+    <rect x="56" y="45" width="36" height="5" rx="2.5" fill="#38BDF8"/>
+    <text x="105" y="53" fill="#BDD0EC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">SPENCER BROWN / LVL3.AI</text>
+    <rect x="952" y="32" width="192" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.15"/>
+    <circle cx="972" cy="49" r="4" fill="#34D399"/>
+    <text x="986" y="54" fill="#D3DCEF" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">RESEARCH BLUEPRINTS</text>
+
+    <text x="53" y="153" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="700" letter-spacing="-3">RSI RESEARCH</text>
+    <text x="56" y="195" fill="#B8C6DD" font-family="Arial, Helvetica, sans-serif" font-size="23">Can AI get better at getting better?</text>
+    <rect x="56" y="226" width="1088" height="2" rx="1" fill="url(#spectrum)"/>
+
+    <rect x="56" y="258" width="346" height="186" rx="16" fill="#0B1931" stroke="#38BDF8" stroke-opacity="0.42"/>
+    <rect x="56" y="258" width="346" height="4" rx="2" fill="#38BDF8"/>
+    <text x="80" y="295" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">01 / IMPROVEMENT</text>
+    <text x="80" y="340" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">RSI</text>
+    <text x="80" y="375" fill="#BDCCE1" font-family="Arial, Helvetica, sans-serif" font-size="18">Discover better methods.</text>
+    <text x="80" y="410" fill="#7DD3FC" font-family="Arial, Helvetica, sans-serif" font-size="13">Propose · Test · Learn</text>
+
+    <rect x="427" y="258" width="346" height="186" rx="16" fill="#1B1636" stroke="#A78BFA" stroke-opacity="0.42"/>
+    <rect x="427" y="258" width="346" height="4" rx="2" fill="#A78BFA"/>
+    <text x="451" y="295" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">02 / STRATEGY</text>
+    <text x="451" y="340" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">ATHENA</text>
+    <text x="451" y="375" fill="#BDCCE1" font-family="Arial, Helvetica, sans-serif" font-size="18">Choose what matters.</text>
+    <text x="451" y="410" fill="#C4B5FD" font-family="Arial, Helvetica, sans-serif" font-size="13">Plan · Prioritize · Adapt</text>
+
+    <rect x="798" y="258" width="346" height="186" rx="16" fill="#291626" stroke="#FB7185" stroke-opacity="0.42"/>
+    <rect x="798" y="258" width="346" height="4" rx="2" fill="#FB7185"/>
+    <text x="822" y="295" fill="#FDA4AF" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">03 / CONTROL</text>
+    <text x="822" y="340" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">SUPERMAN</text>
+    <text x="822" y="375" fill="#BDCCE1" font-family="Arial, Helvetica, sans-serif" font-size="18">Enforce the boundaries.</text>
+    <text x="822" y="410" fill="#FDA4AF" font-family="Arial, Helvetica, sans-serif" font-size="13">Authorize · Verify · Recover</text>
+
+    <text x="56" y="486" fill="#8DA2C2" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1">THREE COMPLEMENTARY DESIGNS. ONE RESEARCH QUESTION.</text>
+    <text x="1144" y="486" fill="#B9C7DD" font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="end">Build responsibly.</text>
+  </g>
+</svg>
